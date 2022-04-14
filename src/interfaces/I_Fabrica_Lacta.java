@@ -17,7 +17,7 @@ public interface I_Fabrica_Lacta{
         
         public static String COD_OVO_AO_LAITE170g = "ovoAoLeite170g";
         public static String COD_OVO_OREO275G = "ovoOreo275g";
-        public static String COD_SONHO_DE_VALSA277G = "SonDeVals277g";
+        public static String COD_SONHO_DE_VALSA277G = "ovoSonDeVals277g";
         
         public static String NOME_AO_LAITE170g = "Ao Leite 170g";
         public static String CARBOIDRATOS_AO_LAITE170g = "14g";

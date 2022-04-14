@@ -15,7 +15,7 @@ import coelho_da_pascoa.fabricas.ovos.garoto.OvoBatomAoLeite172g;
  */
 public interface I_Fabrica_Garoto{
         
-        public static String COD_OVO_CROCANTE215G = "Crocante215g";
+        public static String COD_OVO_CROCANTE215G = "ovoCrocante215g";
         public static String COD_OVO_TALENTO350G = "ovoTalen350g";
         public static String COD_OVO_BATON_AO_LEITE172G = "ovoBatonLeit172g";
         
