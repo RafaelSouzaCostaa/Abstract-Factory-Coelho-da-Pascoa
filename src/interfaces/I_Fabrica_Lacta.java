@@ -15,6 +15,7 @@ import coelho_da_pascoa.fabricas.ovos.lacta.OvoOreo275g;
  */
 public interface I_Fabrica_Lacta{
         
+        
         public static String COD_OVO_AO_LAITE170g = "ovoAoLeite170g";
         public static String COD_OVO_OREO275G = "ovoOreo275g";
         public static String COD_SONHO_DE_VALSA277G = "ovoSonDeVals277g";
@@ -24,7 +25,7 @@ public interface I_Fabrica_Lacta{
         public static String PROTEINAS_AO_LAITE170g = "2,4g (3%)";
         public static String GOLDURAS_TOTAIS_AO_LAITE170g = "8,0g (15%)";
         
-        public static String NOME_OREO275G = "Oreo 257g";
+        public static String NOME_OREO275G = "Oreo 257g ";
         public static String CARBOIDRATOS_OREO275G = "15g (5%)";
         public static String PROTEINAS_OREO275G = "1,3 g (2%)";
         public static String GOLDURAS_TOTAIS_OREO275G = "7,6g (14%)";
